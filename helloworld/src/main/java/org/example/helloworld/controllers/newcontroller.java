@@ -10,6 +10,6 @@ public class PrashantController {
 
     @GetMapping("new")
     public String greetUser() {
-        return "Hello for testing";
+        return "Hello from Bhuvan";
     }
 }
