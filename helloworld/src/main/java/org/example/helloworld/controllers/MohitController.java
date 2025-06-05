@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 
-public class PrashantController {
+public class MohitController {
 
     @GetMapping("Mohit")
     public String greetUser() {
